@@ -1,16 +1,19 @@
-# chat_gpt_flutter
+# ChatGpt - Flutter, Open API, Provider state management
 
-A new Flutter project.
+This is a basic chat-gpt clone, made using flutter, the official openapi and the provider state management
 
-## Getting Started
+**Packages in use:**
+  cupertino_icons: 
+  http: 
+  provider: 
+  flutter_spinkit: 
+  animated_text_kit: 
 
-This project is a starting point for a Flutter application.
+**Video Preview:**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## Screens it contains:
+   - Home Page
+ ## Photos:
+ 
+ ![Screenshot (291)](https://github.com/Elyumusa/chatgpt-flutter-clone/assets/93226469/7fc62d68-f216-4db1-b5d0-af77b81992c8)
+![Screenshot (292)](https://github.com/Elyumusa/chatgpt-flutter-clone/assets/93226469/505ceb0a-c7f6-4f83-afb5-453e244b0158)
